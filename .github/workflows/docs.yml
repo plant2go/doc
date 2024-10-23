@@ -1,0 +1,35 @@
+name: Docs
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - doc/**
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build & Publish 🚀
+    runs-on: ubuntu-22.04
+    env:
+      INPUTPATH: asciidoc-default
+      OUTPUTPATH: dist
+      SLIDES: false
+      BRANCH: gh-pages
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build main README
+        uses: quirinecker/asciidoctor-convert-action@main
+        with:
+          slides: ${{ env.SLIDES }}
+          inputPath: ${{ env.INPUTPATH }}
+          outputPath: ${{ env.OUTPUTPATH }}
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ github.TOKEN }}
+          BRANCH: ${{ env.BRANCH }}
+          FOLDER: ${{ env.OUTPUTPATH }}
