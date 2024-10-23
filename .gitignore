@@ -748,4 +748,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,phpstorm,webstorm,linux,windows,macos,visualstudiocode,visualstudio
 
-./.idea/
+.idea/
