@@ -1,1 +1,3 @@
 == Plant2go
+
+image::https://plant2go.github.io/design//Logo/SVG/2.svg[]
