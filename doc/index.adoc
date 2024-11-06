@@ -1,6 +1,4 @@
 = Projekt Dokumentation
-Lydia Reiter
-1.0.0, yyyy-mm-dd: name-meeting 2023-07-03
 
 :icons: font
 :sectnums:
