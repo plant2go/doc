@@ -39,3 +39,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           BRANCH: ${{ env.BRANCH }}
           FOLDER: ${{ env.OUTPUTPATH }}
+
+#      - name: Access repository
+#        run: |
+#          git config --global user.email "${{ secrets.EMAIL }}"
+#          git config --global user.name "${{ secrets.USERNAME }}"
