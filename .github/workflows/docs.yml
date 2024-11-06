@@ -33,9 +33,7 @@ jobs:
 
       - name: see it
         run: |
-          ls -a
           ls -a dist/
-          ls -a doc/
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
