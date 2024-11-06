@@ -398,16 +398,16 @@ image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
 
 === Präsentations Template
 
-image::https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[pages=1..10]
+https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
 
 === Service Flip
 
-image::CircularDesign_Service Flip_plant2go.pdf[pages=1]
+https://plant2go.github.io/doc/CircularDesign_Service%20Flip_plant2go.pdf[zum Service Flip]
 
 === Assumption Matrix
 
-image::AssumptionMatrix_plant2go.pdf[pages=1]
+https://plant2go.github.io/doc/AssumptionMatrix_plant2go.pdf[zur Matrix]
 
 === W-Fragen
 
-image::W-Fragen_plant2go.pdf[pages=1]
+https://plant2go.github.io/doc/W-Fragen_plant2go.pdf[zu den W-Fragen]
