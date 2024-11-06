@@ -13,7 +13,7 @@ jobs:
     name: Build & Publish 🚀
     runs-on: ubuntu-22.04
     env:
-      INPUTPATH: asciidoc-default
+      INPUTPATH: doc
       OUTPUTPATH: dist
       SLIDES: false
       BRANCH: gh-pages
