@@ -314,7 +314,7 @@ schweren Lasten stand
 [cols=2*]
 |===
 |Ort
-|FH Oberösterreich Hagenberg, FH3.311
+|FH Oberösterreich Hagenberg, FH2.422
 
 |Datum
 |Mi, 25 Okt 2024
@@ -359,3 +359,55 @@ image::2024-10-25-drawing-of-plant2go.png[]
 * Sonderanfertigung mit eigenem Rucksack
 ====
 
+
+== 06.11.2024
+
+.Anwesende
+|===
+|Vorort
+
+|Julia Kiss
+
+|Yaminia Pagoada
+
+|Lydia Reiter
+
+|Lena Wurmsdobler
+
+|Wenxi Yang
+
+|===
+
+.Ort und Datum
+[cols=2*]
+|===
+|Ort
+|FH Oberösterreich Hagenberg, FH3
+
+|Datum
+|Mi, 06 Nov 2024
+|===
+
+=== Allgemein
+
+Am 6. November wurde einerseits ein Logo und ein Template für Präsentationen erstellt, sowie auch die https://plant2go.github.io/design/praesentation/Plant2Go_Presentation_07112024.pdf[Präsentation] für den https://plant2go.github.io/doc/#_07_11_2024[07.11.2024] und dessen Inhalte gemacht. Diese Inhalte werden folgend aufgeführt.
+
+=== Logo
+
+image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
+
+=== Präsentations Template
+
+image::https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[pages=1..10]
+
+=== Service Flip
+
+image::CircularDesign_Service Flip_plant2go.pdf[pages=1]
+
+=== Assumption Matrix
+
+image::AssumptionMatrix_plant2go.pdf[pages=1]
+
+=== W-Fragen
+
+image::W-Fragen_plant2go.pdf[pages=1]
