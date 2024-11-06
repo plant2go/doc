@@ -292,3 +292,70 @@ schweren Lasten stand
 * das kann man in der App nachschauen
 ====
 
+== 25.10.2024
+
+.Anwesende
+|===
+|Vorort
+
+|Julia Kiss
+
+|Yaminia Pagoada
+
+|Lydia Reiter
+
+|Lena Wurmsdobler
+
+|Wenxi Yang
+
+|===
+
+.Ort und Datum
+[cols=2*]
+|===
+|Ort
+|FH Oberösterreich Hagenberg, FH3.311
+
+|Datum
+|Mi, 25 Okt 2024
+|===
+
+=== Allgemein
+
+Es wurde Plant2go vorgestellt und präsentiert.
+
+image::2024-10-25-drawing-of-plant2go.png[]
+
+=== Feedback und Anregungspunkte
+
+.Feedback
+[%collapsible]
+====
+* Sehr spannendes Intro
+* Zeichnung digitalisieren, um allen zu zeigen
+* nicht aus dem Altstoffsammelzentrum mitnehmen - ist Diebstahl
+* super süß
+* Kooperationen
+** Kindergärten
+** Schulen
+** generell Bildungsbereich
+** Naturschutzbund
+** Gärtnereien
+* Adaptierungen Balkon
+* Community Aufbau
+** Ideen austauschen
+** Anleitungen
+** Ersatzteile
+====
+
+.Anregungspunkte
+[%collapsible]
+====
+* Zusendung der Rucksäcke
+* Hydrokultur -> mit Wasser
+* nur einen normalen Blumentopf -> ohne den Ösen
+* Blumentopf Untertassen in der App erwerbbar
+* verschiedene Größen -> wird eine Mindestgröße geben
+* Sonderanfertigung mit eigenem Rucksack
+====
+
