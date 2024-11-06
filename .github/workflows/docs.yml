@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - 'main'
-#    paths:
-#      - doc/**
   workflow_dispatch:
 
 permissions:
@@ -31,19 +29,8 @@ jobs:
           inputPath: ${{ env.INPUTPATH }}
           outputPath: ${{ env.OUTPUTPATH }}
 
-      - name: see it
-        run: |
-          ls -a dist/
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: ${{ env.OUTPUTPATH }}
           branch: ${{ env.BRANCH }}
-
-      #      - name: Deploy to GitHub Pages
-      #        uses: JamesIves/github-pages-deploy-action@releases/v3
-      #        with:
-      #          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-      #          BRANCH: ${{ env.BRANCH }}
-      #          FOLDER: ${{ env.OUTPUTPATH }}
