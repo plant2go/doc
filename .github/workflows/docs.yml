@@ -8,6 +8,9 @@ on:
       - doc/**
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Build & Publish 🚀
@@ -17,13 +20,9 @@ jobs:
       OUTPUTPATH: dist
       SLIDES: false
       BRANCH: gh-pages
+    concurrency: ci-${{ github.ref }}
     steps:
       - uses: actions/checkout@v2
-
-      - name: Change Branch
-        run: |
-          git checkout ${{ env.BRANCH }}
-          ls -a
 
       - name: Build main
         uses: quirinecker/asciidoctor-convert-action@main
@@ -38,17 +37,15 @@ jobs:
           ls -a dist/
           ls -a doc/
 
-#      - name: Deploy to GitHub Pages
-#        uses: JamesIves/github-pages-deploy-action@releases/v3
-#        with:
-#          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-#          BRANCH: ${{ env.BRANCH }}
-#          FOLDER: ${{ env.OUTPUTPATH }}
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: ${{ env.OUTPUTPATH }}
+          branch: ${{ env.BRANCH }}
 
-      - name: Access repository
-        run: |
-          git config --global user.email "${{ secrets.EMAIL }}"
-          git config --global user.name "${{ secrets.USERNAME }}"
-          git add .
-          git commit -m "upload files for website"
-          git push
+      #      - name: Deploy to GitHub Pages
+      #        uses: JamesIves/github-pages-deploy-action@releases/v3
+      #        with:
+      #          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+      #          BRANCH: ${{ env.BRANCH }}
+      #          FOLDER: ${{ env.OUTPUTPATH }}
