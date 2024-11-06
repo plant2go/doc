@@ -20,16 +20,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Build main README
+      - name: Build main
         uses: quirinecker/asciidoctor-convert-action@main
         with:
           slides: ${{ env.SLIDES }}
           inputPath: ${{ env.INPUTPATH }}
           outputPath: ${{ env.OUTPUTPATH }}
 
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          BRANCH: ${{ env.BRANCH }}
-          FOLDER: ${{ env.OUTPUTPATH }}
+      - name: see it
+        run: |
+          ls -a
+
+#      - name: Deploy to GitHub Pages
+#        uses: JamesIves/github-pages-deploy-action@releases/v3
+#        with:
+#          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+#          BRANCH: ${{ env.BRANCH }}
+#          FOLDER: ${{ env.OUTPUTPATH }}
