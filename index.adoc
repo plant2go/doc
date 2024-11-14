@@ -390,27 +390,7 @@ image::2024-10-25-drawing-of-plant2go.png[]
 
 === Allgemein
 
-Am 6. November wurde einerseits ein Logo und ein Template für Präsentationen erstellt, sowie auch die https://plant2go.github.io/design/praesentation/Plant2Go_Presentation_07112024.pdf[Präsentation] für den https://plant2go.github.io/doc/#_07_11_2024[07.11.2024] und dessen Inhalte gemacht. Diese Inhalte werden folgend aufgeführt.
-
-=== Logo
-
-image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
-
-=== Präsentations Template
-
-https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
-
-=== Service Flip
-
-https://plant2go.github.io/doc/CircularDesign_Service%20Flip_plant2go.pdf[zum Service Flip]
-
-=== Assumption Matrix
-
-https://plant2go.github.io/doc/AssumptionMatrix_plant2go.pdf[zur Matrix]
-
-=== W-Fragen
-
-https://plant2go.github.io/doc/W-Fragen_plant2go.pdf[zu den W-Fragen]
+Am 6. November wurde einerseits ein Logo und ein Template für Präsentationen erstellt, sowie auch die https://plant2go.github.io/design/praesentation/Plant2Go_Presentation_07112024.pdf[Präsentation] für den https://plant2go.github.io/doc/#_07_11_2024[07.11.2024] und dessen Inhalte gemacht. Diese Inhalte werden folgend am https://plant2go.github.io/doc/#_07_11_2024[07.11.2024] aufgeführt.
 
 == 07.11.2024
 
@@ -446,7 +426,37 @@ Es wurde wieder https://plant2go.github.io/design/praesentation/Plant2Go_Present
 
 === Feedback
 
-Das sind keine Personas, aber diese genaue Ausarbeitung hilft weiter bei den weiteren Schritten.
+* Das sind keine Personas, aber diese genaue Ausarbeitung hilft weiter bei den weiteren Schritten.
+* Folien sollen folgendes Beinhalten:
+** name
+** Datum
+** Nummerierung
+* Es soll in Hochdeutsch präsentiert werden
+* gezeichnetes Bild heranziehen und wärend der Präsentation zeigen
+** Möglicherweise in Illustator, ... nachbauen
+* ausgrauen von gesprochene Themen
+* wichtige Erkenntnisse hervorheben
+** nicht alles sagen
+
+=== Logo
+
+image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
+
+=== Präsentations Template
+
+https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
+
+=== Service Flip
+
+https://plant2go.github.io/doc/CircularDesign_Service%20Flip_plant2go.pdf[zum Service Flip]
+
+=== Assumption Matrix
+
+https://plant2go.github.io/doc/AssumptionMatrix_plant2go.pdf[zur Matrix]
+
+=== W-Fragen
+
+https://plant2go.github.io/doc/W-Fragen_plant2go.pdf[zu den W-Fragen]
 
 
 == 14.11.2024
@@ -479,7 +489,7 @@ Das sind keine Personas, aber diese genaue Ausarbeitung hilft weiter bei den wei
 
 === Allgemein
 
-Es wurde wieder der neuste Stand präsentiert.
+Es wurde wieder der neuste Stand https://plant2go.github.io/design/presentation/Plant2Go_Presentation_14112024.pdf[präsentiert].
 Darüber hinaus wurde https://github.com/orgs/plant2go/projects/1/views/1[GitHub Projects] eingerichtet und beigebracht, um leichter die Aufgaben zu managen.
 
 === Feedback
@@ -503,3 +513,10 @@ Darüber hinaus wurde https://github.com/orgs/plant2go/projects/1/views/1[GitHub
 * cool, dass Ihr schon über Lösungen für Probleme nachgedacht habt
 * Umfrage Antworten sehr schön übersichtlich
 * Toll, dass ihr auch das negative Feedback einsehen könnt
+
+=== Stackeholder Map
+https://plant2go.github.io/doc/07112024Stakeholdermap-plant2go.pdf[zur Stackholder Map]
+
+=== Umfragen Auswertungen
+
+https://plant2go.github.io/doc/Umfragenauswertungen/Umfrageauswertung_Version1_mit%20Diagramme.pdf[zu der Auswertung]
