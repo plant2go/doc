@@ -447,3 +447,37 @@ Es wurde wieder https://plant2go.github.io/design/praesentation/Plant2Go_Present
 === Feedback
 
 Das sind keine Personas, aber diese genaue Ausarbeitung hilft weiter bei den weiteren Schritten.
+
+
+== 14.11.2024
+
+.Anwesende
+|===
+|Vorort
+
+|Julia Kiss
+
+|Yaminia Pagoada
+
+|Lydia Reiter
+
+|Lena Wurmsdobler
+
+|Wenxi Yang
+
+|===
+
+.Ort und Datum
+[cols=2*]
+|===
+|Ort
+|FH Oberösterreich Hagenberg, FH2
+
+|Datum
+|Mi, 14 Nov 2024
+|===
+
+=== Allgemein
+
+Es wurde wieder der neuste Stand präsentiert.
+Darüber hinaus wurde https://github.com/orgs/plant2go/projects/1/views/1[GitHub Projects] eingerichtet und beigebracht, um leichter die Aufgaben zu managen.
