@@ -29,6 +29,11 @@ jobs:
           inputPath: ${{ env.INPUTPATH }}
           outputPath: ${{ env.OUTPUTPATH }}
 
+      - name: convert pptx usw to PDF
+        run: |
+          chmod +x convert_to_pdf.sh
+          ./convert_to_pdf.sh .
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
