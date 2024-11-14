@@ -490,3 +490,5 @@ Darüber hinaus wurde https://github.com/orgs/plant2go/projects/1/views/1[GitHub
 - paar äußere Stakeholder eher weiter herein -> Umsetzung mehr Infos benötigen
 - Fragebogen sollen Verzweigungen dabei sein
 - Interview ist besser als ein Fragebogen
+- Gendern - wenn einmal, dann überall
+** z.B.: Lieferanten/Innen
