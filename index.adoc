@@ -481,3 +481,5 @@ Das sind keine Personas, aber diese genaue Ausarbeitung hilft weiter bei den wei
 
 Es wurde wieder der neuste Stand präsentiert.
 Darüber hinaus wurde https://github.com/orgs/plant2go/projects/1/views/1[GitHub Projects] eingerichtet und beigebracht, um leichter die Aufgaben zu managen.
+
+=== Feedback
