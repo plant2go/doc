@@ -443,7 +443,7 @@ Es wurde wieder https://plant2go.github.io/design/praesentation/Plant2Go_Present
 image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
 
 === Präsentations-Template
-
+https://github.com/plant2go/doc/blob/main/Plant2Go_PresiTemplate.pdf[zum Template]
 https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
 
 === Service Flip
