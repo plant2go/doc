@@ -161,7 +161,7 @@ Einleitung Produkt Spezifikationen, Systemrequirements – Lena
 * Funktionalität, Nachhaltigkeit, innovatives Design
 * Formstabilität
 
-*Personas – Yaminia*
+*Personenkreis – Yaminia*
 
 * Der gemeinsame Nenner – wenig Platz, ungünstige Umgebungszustände,
 Umzugsbeständig und leicht tragbar, mit der Verfügung zu allen
@@ -442,7 +442,7 @@ Es wurde wieder https://plant2go.github.io/design/praesentation/Plant2Go_Present
 
 image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
 
-=== Präsentations Template
+=== Präsentations-Template
 
 https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
 
