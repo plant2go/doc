@@ -660,3 +660,5 @@ https://plant2go.github.io/design/Prototyp/Plant2Go_Prototyp_Materialliste.pdf[z
 .Um über die neu gewonnenen Erkenntnisse berichten zu können, stellten wir kurzerhand eine Präsentation zusammen.
 
 https://plant2go.github.io/design/presentation/pdf/Plant2Go_Presentation_12122024_1.pdf[zur Kurzvorstellung]
+
+
