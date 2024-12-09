@@ -602,7 +602,7 @@ Unsere Personas setzen sich aus zwei humane und einer non-humanen Persona: Karin
 
 - https://plant2go.github.io/design/persona/non-humane_persona_Sprout.png["Sprout"]
 
-- https://plant2go.github.io/design/persona/Persona_susannepdf.pdf["Susanne"]
+- https://plant2go.github.io/doc/EmpathyMap.pdf["Susanne"]
 
 
 === "How Might We"
