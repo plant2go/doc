@@ -443,9 +443,7 @@ Es wurde wieder https://plant2go.github.io/design/praesentation/Plant2Go_Present
 image::https://plant2go.github.io/design/Logo/SVG/2.svg[]
 
 === Präsentations-Template
-
-https://github.com/plant2go/doc/Plant2Go_PresiTemplate.pdf[zum Template]
-https://plant2go.github.io/design/presentation-template/Plant2Go_PresentationTemplate.pdf[zum Template]
+https://plant2go.github.io/design/presentation/pdf/Plant2Go_PresiTemplate.pdf[zum Template]
 
 === Service Flip
 
@@ -557,3 +555,49 @@ image::20241127_161615.jpg[320,240,pdfwidth=10%,scaledwidth=10%]
 Besprechung über Orientierung im AsciiDoc und der Dokumentation unserer
 Treffen. Ziel ist es unabhängig voneinander arbeiten zu können,
 und trotzdem auf die gemeinsame Arbeit zugreifen zu können.
+
+== 12.12.2024
+
+.Anwesende
+|===
+|Vorort
+
+|Julia Kiss
+
+|Yaminia Pagoada
+
+|Lydia Reiter
+
+|Lena Wurmsdobler
+
+|Wenxi Yang
+
+|===
+
+.Ort und Datum
+[cols=2*]
+|===
+|Ort
+|FH Oberösterreich Hagenberg, FH2
+
+|Datum
+|Do, 12. Dezember 2024
+|===
+
+=== Allgemein
+
+=== Personas
+Unsere Personas setzen sich aus zwei humane und einer non-humanen Persona: Karin, --- und Sprout
+
+https://plant2go.github.io/design/persona/Custom_Persona.png[Karin]
+https://plant2go.github.io/design/persona/non-humane_persona_Sprout.png[Sprout]
+
+=== How Might We
+
+https://plant2go.github.io/doc/How_might_we.pdf[zum File]
+
+=== Mood Board
+
+=== Actant Mapping
+
+=== Ergebnisse & Visualisierung Fragebogen/Interview
