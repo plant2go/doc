@@ -29,11 +29,6 @@ jobs:
           inputPath: ${{ env.INPUTPATH }}
           outputPath: ${{ env.OUTPUTPATH }}
 
-      - name: Convert AsciiDoc to HTML
-        run: |
-          chmod +x convert_asciidoc_to_html.sh
-          ./convert_asciidoc_to_html.sh .
-
       - name: convert pptx usw to PDF
         run: |
           chmod +x convert_to_pdf.sh
