@@ -4,6 +4,9 @@
 # Zweck: Automatische Konvertierung von AsciiDoc-Dateien (.adoc) in HTML
 # Rekursive Verarbeitung aller Unterverzeichnisse
 
+# install asciidoctor
+sudo apt install asciidoctor 
+
 # Ausgangsverzeichnis (aktuelles Verzeichnis standardmäßig)
 START_DIR=$(pwd)
 
