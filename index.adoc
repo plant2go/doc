@@ -664,3 +664,45 @@ https://plant2go.github.io/design/Prototyp/Plant2Go_Prototyp_Materialliste.pdf[z
 https://plant2go.github.io/design/presentation/pdf/Plant2Go_Presentation_12122024_1.pdf[zur Kurzvorstellung]
 
 
+=== In der Stunde
+
+Während der Unterrichtsstunde wurden haptische Prototypen entwickelt, um Plant2Go ein konkretes visuelles
+Erscheinungsbild zu verleihen. Dazu wurde ein Wizard-of-Oz-Prototyp auf einem Tablet erstellt, der die Funktionalitäten
+einer möglichen App simulierte. Zusätzlich wurde ein physisches Modell von Plant2Go angefertigt, um das Zusammenspiel
+zwischen der App und dem Gerät anschaulich darzustellen und erste Benutzerinteraktionen zu testen.
+
+==== Fotogalerie
+
+image::https://plant2go.github.io/doc/Fotos/20241212_100529.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_100544.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_100726.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_100743.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_100751.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_100917.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_101249.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_101256.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_101257.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_102207.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_110146.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_110218.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_110229.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_112513.jpg[]
+image::https://plant2go.github.io/doc/Fotos/20241212_145904.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_20241212_103500.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_20241212_103527.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_20241212_103548.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_20241212_104125.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9540.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9541.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9542.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9546.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9549.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9552.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9555.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9557.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9558.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9559.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9560.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9562.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9564.jpg[]
+image::https://plant2go.github.io/doc/Fotos/IMG_9566.jpg[]
