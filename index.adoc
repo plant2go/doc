@@ -648,6 +648,8 @@ nützlich
 
 - Falls umsetzbar wären Heilwirkungen von Pflanzen tatsächlich ebenfalls in der App interessant
 
+- Funktion für automatisches gießen, remote mit der App
+
 image::https://plant2go.github.io/doc/Interviews/Interview_Kreuzhuber_Gerlinde.jpg[Gerlinde Kreuzhuber]
 image::https://plant2go.github.io/doc/Interviews/Interview_Kreuzhuber_Gerlinde2.jpg[Gerlinde Kreuzhuber]
 
