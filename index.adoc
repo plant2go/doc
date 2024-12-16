@@ -32,7 +32,7 @@
 |Do, 17 Okt 2024
 |===
 
-image::./images/2024-10-17-drawing-of-plant2go.png[]
+image::./2024-10-17-drawing-of-plant2go.png[]
 
 .Notizen Lydia Reiter
 [%collapsible]
