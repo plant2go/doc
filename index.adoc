@@ -326,7 +326,7 @@ schweren Lasten stand.
 
 Es wurde Plant2go vorgestellt und präsentiert.
 
-image::./2024-10-25-drawing-of-plant2go.png[]
+image::https://plant2go.github.io/doc/images/2024-10-25-drawing-of-plant2go.png[]
 
 === Feedback und Anregungspunkte
 
@@ -551,9 +551,9 @@ https://plant2go.github.io/doc/Umfragenauswertungen/Umfrageauswertung_Version1_m
 
 === Besprechung AsciiDoc
 
-image::20241127_161510.jpg[]
+image::https://plant2go.github.io/doc/images/20241127_161510.jpg[]
 
-image::20241127_161615.jpg[320,240,pdfwidth=10%,scaledwidth=10%]
+image::https://plant2go.github.io/doc/images/20241127_161615.jpg[320,240,pdfwidth=10%,scaledwidth=10%]
 
 Besprechung über Orientierung im AsciiDoc und der Dokumentation unserer
 Treffen. Ziel ist es unabhängig voneinander arbeiten zu können,
