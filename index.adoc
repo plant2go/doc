@@ -706,3 +706,51 @@ image::https://plant2go.github.io/doc/Fotos/IMG_9560.jpg[]
 image::https://plant2go.github.io/doc/Fotos/IMG_9562.jpg[]
 image::https://plant2go.github.io/doc/Fotos/IMG_9564.jpg[]
 image::https://plant2go.github.io/doc/Fotos/IMG_9566.jpg[]
+
+== 17.01.2025
+
+.: Anwesende
+|===
+|Vorort
+
+|Julia Kiss
+
+|Yaminia Pagoada
+
+|Lydia Reiter
+
+|Lena Wurmsdobler
+
+|Wenxi Yang
+
+|===
+
+.: Ort und Datum
+[cols=2*]
+|===
+|Ort
+|FH Oberösterreich Hagenberg, FH2
+
+|Datum
+|Fr, 17. Januar 2025
+|===
+
+=== Allgemein
+
+Über die Weihnachtsferien wurde mit dem Video, in dem der Prototyp vorgestellt wird, ein Interview durchgeführt. 
+Jeder der Projektmitglieder musste in dieser Zeit diese Befragung durchführen. Es ist auch ein Transscript angefährtigt und die Ergebnisse der Befragung ausgeewertet. 
+
+=== Interviews
+
+Folgend sind alle Interviews und deren Transkript.
+
+==== Julia Kiss
+
+==== Yaminia Pagoada
+
+==== Lydia Reiter
+
+==== Lena Wurmsdobler
+
+==== Wenxi Yang
+
