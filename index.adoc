@@ -963,3 +963,6 @@ Hast du noch weitere Gedanken oder Anmerkungen zu Plan to go, die du mit mir tei
 Okay, danke fürs Interview. Bis zum nächsten Mal. Tschüss.
 ====
 
+=== Präsentation
+
+https://plant2go.github.io/design/presentation/pdf/Plant2Go_Presentation_17012025.pdf[zur PRäsentation]
