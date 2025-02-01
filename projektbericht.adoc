@@ -109,3 +109,13 @@ Vorbereitung auf die Präsentation am 25.10.2024. Die Struktur der Präsentation
 
 In der ersten offiziellen Präsentation wurde das Konzept von Plant2Go detailliert vorgestellt. Dabei wurden die bisherigen Überlegungen, der Designprozess und die ersten Ergebnisse aus den durchgeführten Analysen präsentiert. Die Rückmeldungen der Zuhörer umfassten wertvolle Anregungen zur Optimierung des Designs, insbesondere zur Materialauswahl und zur technischen Umsetzung der Bewässerungssysteme. Diese Inputs wurden aufgenommen und flossen in die weitere Entwicklung des Prototyps ein.
 
+=== 06.11.2024 - Entwicklung eines Corporate Designs
+
+In dieser Phase wurde ein einheitliches Corporate Design für Plant2Go entwickelt, um dem Projekt eine professionelle und wiedererkennbare visuelle Identität zu verleihen. Zunächst wurden verschiedene Designansätze analysiert, um ein Konzept zu finden, das sowohl die nachhaltige Ausrichtung als auch die technologische Innovation des Projekts widerspiegelt.
+
+Das Logo wurde auf Basis mehrerer Entwürfe iterativ gestaltet, wobei Feedback aus dem Team einfloss, um eine klare und moderne Darstellung zu gewährleisten. Es sollte sowohl die Umweltfreundlichkeit als auch die Funktionalität des Produkts visuell vermitteln.
+
+Parallel dazu wurde ein standardisiertes Präsentationstemplate entwickelt, das konsistente Farben, Schriftarten und Layoutvorgaben enthielt. Dieses Template diente dazu, alle späteren Präsentationen im Rahmen des Projekts einheitlich und professionell zu gestalten. Dadurch sollte eine konsistente visuelle Identität geschaffen werden, die sich durch das gesamte Projekt zieht.
+
+Das Corporate Design legte den Grundstein für alle weiteren grafischen und kommunikativen Aspekte des Projekts und stellte sicher, dass Plant2Go als kohärentes und gut strukturiertes Konzept präsentiert werden konnte.
+
