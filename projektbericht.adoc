@@ -65,8 +65,8 @@ Zusammenfassend wurde Plant2Go entwickelt, um eine mobile, nachhaltige und benut
 Zu Beginn des Projekts wurden drei mögliche Produktkonzepte diskutiert:
 
 . Ein Stuhl
-.Eine Flasche
-.Ein Rucksack
+. Eine Flasche
+. Ein Rucksack
 
 Nach sorgfältiger Abwägung entschied sich das Team für den Rucksack, da er sich am besten für eine nachhaltige und mobile Pflanzenzuchtlösung eignete. Die Idee entwickelte sich schnell weiter, indem überlegt wurde, einen Blumentopf direkt in den Rucksack zu integrieren, um eine tragbare Pflanzenzuchtstation zu ermöglichen.
 
