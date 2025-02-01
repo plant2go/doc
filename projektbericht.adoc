@@ -57,3 +57,47 @@ Ein weiterer Aspekt, der zur Entwicklung von Plant2Go führte, war die Herausfor
 Neben der Mobilität und Benutzerfreundlichkeit spielte auch Nachhaltigkeit eine entscheidende Rolle bei der Entwicklung von Plant2Go. Es wurde bewusst auf recycelte Materialien zurückgegriffen, um Abfall zu reduzieren und den ökologischen Fußabdruck des Produkts so gering wie möglich zu halten. Dabei wurde besonders darauf geachtet, dass die Materialien langlebig, wasserbeständig und funktional sind, um eine lange Nutzungsdauer zu gewährleisten. Darüber hinaus wurde eine energiesparende Beleuchtungstechnologie integriert, um sicherzustellen, dass die Pflanzen auch bei ungünstigen Lichtverhältnissen optimal versorgt werden.
 
 Zusammenfassend wurde Plant2Go entwickelt, um eine mobile, nachhaltige und benutzerfreundliche Lösung für den Pflanzenanbau zu schaffen. Ziel war es, ein System zu entwerfen, das sich den individuellen Bedürfnissen der Nutzer anpasst, unabhängig von deren Wohnsituation oder Erfahrung mit Pflanzenpflege. Durch die Kombination aus intelligenter Technik, nachhaltigen Materialien und einfacher Handhabung wurde ein Konzept geschaffen, das es ermöglicht, selbst in beengten oder wechselnden Lebensverhältnissen erfolgreich Pflanzen anzubauen.
+
+== Vorgehensweise im Prozess
+
+=== 17.10.2024 - Entwicklung der Projektidee
+
+Zu Beginn des Projekts wurden drei mögliche Produktkonzepte diskutiert:
+
+[start=1]
+. Ein Stuhl
+.Eine Flasche
+.Ein Rucksack
+
+Nach sorgfältiger Abwägung entschied sich das Team für den Rucksack, da er sich am besten für eine nachhaltige und mobile Pflanzenzuchtlösung eignete. Die Idee entwickelte sich schnell weiter, indem überlegt wurde, einen Blumentopf direkt in den Rucksack zu integrieren, um eine tragbare Pflanzenzuchtstation zu ermöglichen.
+
+Um das Konzept weiter zu konkretisieren, wurde ein Service Flip durchgeführt.
+
+==== Erklärung der Methode: Service Flip
+
+Der Service Flip ist eine Kreativmethode, die ein bestehendes Produkt oder einen Service auf den Kopf stellt, um neue, innovative Nutzungsmöglichkeiten zu entdecken. Dabei wird nicht nur die aktuelle Funktion des Produkts betrachtet, sondern bewusst überlegt, wie es sich verändern kann, um unerwartete Mehrwerte zu schaffen.
+
+Statt sich nur darauf zu konzentrieren, wie Nutzer Pflanzen transportieren, wurde analysiert, wie der Rucksack selbst aktiv zum Pflanzenwachstum beitragen kann.
+
+==== Vor- und Nachteile des Service Flip
+
+*Vorteile:*
+
+* Fördert unkonventionelles Denken und ermöglicht neue Innovationsansätze.
+* Identifiziert neue Nutzungsmöglichkeiten durch Perspektivwechsel.
+* Bringt kreative Lösungen hervor, die über herkömmliche Ideen hinausgehen.
+
+*Nachteile:*
+
+* Kann zu unrealistischen Ideen führen, die schwer umsetzbar sind.
+* Erfordert ein offenes Mindset und längere Diskussionen im Team.
+* Ergebnisse sind oft abstrakt und müssen erst konkretisiert werden.
+
+==== Ergebnis des Service Flip für Plant2Go
+
+Durch den Service Flip kam das Team zu einer bahnbrechenden Erkenntnis: Der Rucksack sollte nicht nur ein Transportmittel, sondern eine autarke Pflanzenzuchtstation sein. Dies führte zu zwei zentralen Weiterentwicklungen:
+
+. Integration eines Bewässerungssystems, um Pflanzen unterwegs mit Wasser zu versorgen.
+. Eingebaute Blooming-Lampe, die genau definierte Lichtfrequenzen für optimales Pflanzenwachstum liefert.
+
+Diese Überlegungen legten den Grundstein für die erste Präsentation und waren entscheidend für die weitere Verfeinerung des Konzepts.
