@@ -119,3 +119,59 @@ Parallel dazu wurde ein standardisiertes Präsentationstemplate entwickelt, das 
 
 Das Corporate Design legte den Grundstein für alle weiteren grafischen und kommunikativen Aspekte des Projekts und stellte sicher, dass Plant2Go als kohärentes und gut strukturiertes Konzept präsentiert werden konnte.
 
+=== 07.11.2024 - Zweite Präsentation & Methodeninput
+
+In der zweiten Präsentation wurde der aktuelle Stand des Projekts vorgestellt und wertvolles Feedback gesammelt. Zudem gab es eine intensive Auseinandersetzung mit verschiedenen Methoden, die zur weiteren Entwicklung von Plant2Go beitragen sollten.
+
+==== Erklärung der Methode: Stakeholder Maps
+
+Diese Methode hilft dabei, alle relevanten Akteure zu identifizieren, die direkt oder indirekt mit dem Projekt in Verbindung stehen. Durch die visuelle Darstellung der Stakeholder-Beziehungen konnten wir erkennen, welche Interessensgruppen am meisten von Plant2Go profitieren und welche Anforderungen sie an das Produkt stellen.
+
+==== Vor- und Nachteile der Stakeholder Map
+
+*Vorteile:*
+
+* Ermöglicht eine klare Übersicht über alle beteiligten Parteien.
+* Unterstützt die gezielte Priorisierung von Nutzerbedürfnissen.
+* Fördert ein besseres Verständnis für mögliche Kooperationen.
+
+*Nachteile:*
+
+* Erfordert eine präzise Analyse der Stakeholder, was zeitaufwendig sein kann.
+* Kann je nach Projektkomplexität unübersichtlich werden.
+
+==== Erklärung der Methode:  W-Fragen-Methode
+
+Diese Methode diente dazu, die grundlegenden Fragen zum Produkt zu klären, wie beispielsweise: Wer sind unsere Nutzer? Was sind ihre Bedürfnisse? Wann und wo wird das Produkt verwendet? Warum ist das Produkt notwendig?
+
+==== Vor- und Nachteile der W-Fragen-Methode
+
+*Vorteile:*
+
+* Strukturierte Erfassung von zentralen Fragen zum Projekt.
+* Hilft dabei, gezielt an Lösungen zu arbeiten.
+* Kann flexibel auf verschiedene Themenbereiche angewendet werden.
+
+*Nachteile:*
+
+* Ergebnisse sind oft breit gefächert und müssen weiter konkretisiert werden.
+* Kann ohne klare Moderation schnell ausufern.
+
+==== Erklärung der Methode:  Assumption Matrix
+
+Diese Technik wurde genutzt, um Annahmen über das Projekt zu hinterfragen und auf ihre Validität zu prüfen. Dabei wurden die Risiken von falschen Annahmen bewertet und Maßnahmen zur Absicherung entwickelt.
+
+==== Vor- und Nachteile der Assumption Matrix
+
+*Vorteile:*
+
+* Reduziert das Risiko, falsche Annahmen als Grundlage für Entscheidungen zu nehmen.
+* Unterstützt eine realistischere Einschätzung der Machbarkeit.
+* Fördert kritisches Denken und evidenzbasierte Planung.
+
+*Nachteile:*
+
+* Erfordert eine gründliche Datenanalyse und Nachforschung.
+* Kann subjektiv sein, wenn Annahmen nicht auf validen Daten basieren.
+
+Durch die Anwendung dieser Methoden erhielt das Team tiefere Einblicke in Nutzerbedürfnisse, Risiken und strategische Planungsmöglichkeiten. Die gewonnenen Erkenntnisse flossen in die Weiterentwicklung des Prototyps ein und halfen dabei, Plant2Go gezielt an den Anforderungen der Zielgruppe auszurichten.
