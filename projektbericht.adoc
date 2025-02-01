@@ -64,7 +64,6 @@ Zusammenfassend wurde Plant2Go entwickelt, um eine mobile, nachhaltige und benut
 
 Zu Beginn des Projekts wurden drei mögliche Produktkonzepte diskutiert:
 
-[start=1]
 . Ein Stuhl
 .Eine Flasche
 .Ein Rucksack
