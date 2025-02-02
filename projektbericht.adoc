@@ -213,3 +213,25 @@ Zusätzlich wurde eine Stakeholder Map erstellt, um alle relevanten Akteure des 
 * Ergebnisse sind oft interpretationsabhängig und müssen regelmäßig aktualisiert werden.
 
 Abschließend wurden erste Umfragen ausgewertet, die in einer vorherigen Phase durchgeführt wurden. Diese Auswertungen lieferten wertvolle Erkenntnisse über die Erwartungen und Bedürfnisse der potenziellen Nutzer, was als Grundlage für die Weiterentwicklung des Konzepts diente.
+
+=== 27.11.2024 - AsciiDoc und Dokumentation
+
+In dieser Phase wurde die Nutzung von AsciiDoc zur strukturierten Dokumentation intensiv besprochen. Dabei wurde festgelegt, dass AsciiDoc als zentrales Tool für die Dokumentation genutzt wird, um eine konsistente und gut nachvollziehbare Struktur für alle Projektunterlagen zu gewährleisten.
+
+AsciiDoc ermöglicht es, technische und konzeptionelle Inhalte klar zu gliedern und in einer einheitlichen, gut formatierten Weise darzustellen. Das Team entschied sich für dieses Tool, da es eine einfache Versionierung ermöglicht und sich nahtlos in GitHub Pages und GitHub Actions integrieren lässt. Dies stellt sicher, dass jede Änderung automatisch dokumentiert und auf der zentralen GitHub Pages-Seite veröffentlicht wird, sodass alle Teammitglieder jederzeit Zugriff auf aktuelle Inhalte haben.
+
+==== Vor- und Nachteile von AsciiDoc:
+
+*Vorteile:*
+
+* Ermöglicht eine strukturierte und übersichtliche Dokumentation.
+* Einfach in Versionskontrollsysteme wie GitHub integrierbar.
+* Unterstützt Formatierungen, Diagramme und Querverweise, um Inhalte verständlich zu präsentieren.
+* Automatisierte Veröffentlichung der Dokumentation über GitHub Actions.
+
+*Nachteile:*
+
+* Erfordert eine kurze Einarbeitungszeit für Teammitglieder, die es noch nicht genutzt haben.
+* Nicht so weit verbreitet wie Markdown, weshalb manche externe Tools es nicht direkt unterstützen.
+
+Das Ziel dieser Einführung war es, dass jedes Teammitglied unabhängig an der Dokumentation arbeiten kann, ohne dass es zu Versionskonflikten oder Unübersichtlichkeit kommt. Durch eine einheitliche Nutzung von AsciiDoc wurde sichergestellt, dass alle Projektschritte nachvollziehbar dokumentiert wurden und jederzeit auf eine zentrale Ablage zugegriffen werden kann.
