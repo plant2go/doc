@@ -235,3 +235,55 @@ AsciiDoc ermöglicht es, technische und konzeptionelle Inhalte klar zu gliedern 
 * Nicht so weit verbreitet wie Markdown, weshalb manche externe Tools es nicht direkt unterstützen.
 
 Das Ziel dieser Einführung war es, dass jedes Teammitglied unabhängig an der Dokumentation arbeiten kann, ohne dass es zu Versionskonflikten oder Unübersichtlichkeit kommt. Durch eine einheitliche Nutzung von AsciiDoc wurde sichergestellt, dass alle Projektschritte nachvollziehbar dokumentiert wurden und jederzeit auf eine zentrale Ablage zugegriffen werden kann.
+
+=== 12.12.2024 - Umsetzung von Feedback & Nutzerinterviews
+
+Während der Ferien wurden Prototypen des Plant2Go-Rucksacks entwickelt, um die ersten praktischen Tests durchzuführen. Ziel war es, die Funktionalität des Bewässerungssystems, die Haltbarkeit der verwendeten Materialien und die Benutzerfreundlichkeit zu überprüfen. Zusätzlich wurden haptische Prototypen entwickelt, sowohl für die App als auch für den Plant2Go-Rucksack, um eine realistische Interaktion mit dem Produkt zu ermöglichen.
+
+==== Erklärung der Methode: Haptische Prototypen
+
+Haptische Prototypen sind physische Modelle, die eine greifbare Erfahrung mit dem Produkt ermöglichen. Sie werden genutzt, um Form, Ergonomie und Bedienbarkeit zu testen, bevor das Produkt in die finale Entwicklungsphase übergeht. Diese Methode hilft, Designfehler frühzeitig zu identifizieren und das Nutzererlebnis zu optimieren.
+
+==== Vor- und Nachteile von Haptische Prototypen:
+
+*Vorteile:*
+
+* Ermöglicht ein realistisches Testen der Ergonomie und Benutzerfreundlichkeit.
+* Hilft, Designprobleme frühzeitig zu erkennen und zu beheben.
+* Fördert eine bessere Abstimmung zwischen Design- und Entwicklungsteams.
+
+*Nachteile:*
+
+* Erstellung kann zeitaufwendig und ressourcenintensiv sein.
+* Änderungen an haptischen Prototypen sind oft kostspieliger als an digitalen Modellen.
+* Ergebnisse hängen stark von der Qualität des Prototyps ab.
+
+Parallel dazu wurden erste Benutzertests durchgeführt, um wertvolles Feedback von potenziellen Nutzern zu erhalten. Die Tests wurden mit haptischen Prototypen sowie einem Produktvideo durchgeführt, in dem der haptische Prototyp demonstriert wurde. Dabei wurden die Probanden gebeten, den Prototypen in verschiedenen Umgebungen zu testen und ihre Eindrücke bezüglich Handhabung, Komfort und Funktionalität zu dokumentieren. Zudem wurde eine strukturierte Interviewreihe durchgeführt, in der spezifische Fragen zur Nutzung des Produkts gestellt wurden.
+
+==== Erklärung der Methode: Nutzerinterviews
+
+Nutzerinterviews sind eine qualitative Forschungsmethode, bei der potenzielle Anwender direkt befragt werden, um tiefere Einblicke in ihre Bedürfnisse, Herausforderungen und Erwartungen an ein Produkt zu gewinnen. Diese Interviews können offen oder strukturiert geführt werden, um entweder explorative Erkenntnisse zu sammeln oder gezielt bestimmte Fragestellungen zu beantworten.
+
+==== Vor- und Nachteile von Nutzerinterviews:
+
+*Vorteile:*
+
+* Ermöglicht tiefgehende Einblicke in die Denkweise und Bedürfnisse der Nutzer.
+* Identifiziert Probleme und Optimierungspotenziale, die durch reine Beobachtung nicht ersichtlich wären.
+* Liefert wertvolle Daten für eine nutzerzentrierte Produktentwicklung.
+
+*Nachteile:*
+
+* Zeitaufwendig in der Durchführung und Analyse.
+* Ergebnisse können subjektiv sein und durch individuelle Meinungen beeinflusst werden.
+* Erfordert erfahrene Interviewer, um aussagekräftige Antworten zu erhalten.
+
+Die Interviews wurden aufgezeichnet und anschließend transkribiert, um die gewonnenen Erkenntnisse systematisch auszuwerten. Die wichtigsten Erkenntnisse aus den Benutzertests betrafen die Handhabung des Rucksacks, das Gewicht und die Praktikabilität des Bewässerungssystems. Basierend auf diesen Ergebnissen wurden Anpassungen vorgenommen, um die Benutzerfreundlichkeit weiter zu verbessern.
+
+Zusätzlich flossen die gewonnenen Erkenntnisse in die technische Weiterentwicklung des Prototyps ein. Aspekte wie die Platzierung des Blumentopfs, die Optimierung der Wasserversorgung und die Anpassung der Materialauswahl wurden basierend auf den Rückmeldungen weiterentwickelt. Somit bildeten die Tests eine essenzielle Grundlage für die iterative Verbesserung des Produkts.
+
+Parallel dazu wurden erste Benutzertests durchgeführt, um wertvolles Feedback von potenziellen Nutzern zu erhalten. Dabei wurden die Probanden gebeten, den Prototypen in verschiedenen Umgebungen zu testen und ihre Eindrücke bezüglich Handhabung, Komfort und Funktionalität zu dokumentieren. Zudem wurde eine strukturierte Interviewreihe durchgeführt, in der spezifische Fragen zur Nutzung des Produkts gestellt wurden.
+
+Die Interviews wurden aufgezeichnet und anschließend transkribiert, um die gewonnenen Erkenntnisse systematisch auszuwerten. Die wichtigsten Erkenntnisse aus den Benutzertests betrafen die Handhabung des Rucksacks, das Gewicht und die Praktikabilität des Bewässerungssystems. Basierend auf diesen Ergebnissen wurden Anpassungen vorgenommen, um die Benutzerfreundlichkeit weiter zu verbessern.
+
+Zusätzlich flossen die gewonnenen Erkenntnisse in die technische Weiterentwicklung des Prototyps ein. Aspekte wie die Platzierung des Blumentopfs, die Optimierung der Wasserversorgung und die Anpassung der Materialauswahl wurden basierend auf den Rückmeldungen weiterentwickelt. Somit bildeten die Tests eine essenzielle Grundlage für die iterative Verbesserung des Produkts.
