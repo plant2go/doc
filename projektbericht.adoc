@@ -175,3 +175,41 @@ Diese Technik wurde genutzt, um Annahmen über das Projekt zu hinterfragen und a
 * Kann subjektiv sein, wenn Annahmen nicht auf validen Daten basieren.
 
 Durch die Anwendung dieser Methoden erhielt das Team tiefere Einblicke in Nutzerbedürfnisse, Risiken und strategische Planungsmöglichkeiten. Die gewonnenen Erkenntnisse flossen in die Weiterentwicklung des Prototyps ein und halfen dabei, Plant2Go gezielt an den Anforderungen der Zielgruppe auszurichten.
+
+=== 14.11.2024 - Einführung in GitHub Projects & Stakeholder Analyse
+
+In dieser Phase des Projekts wurde der aktuelle Stand der Entwicklung präsentiert. Dabei wurden die bisherigen Fortschritte zusammengefasst und kritisch analysiert, um offene Fragen und Optimierungspotenziale zu identifizieren.
+
+Zudem wurde GitHub Projects als Tool zur Aufgabenverwaltung eingeführt. Diese Plattform ermöglichte es dem Team, Aufgaben effizient zu organisieren, den Status von einzelnen Arbeitspaketen nachzuverfolgen und die Zusammenarbeit zu verbessern. Die Einführung von GitHub Projects führte zu einer klaren Strukturierung der Verantwortlichkeiten und einer transparenten Dokumentation der Fortschritte.
+
+==== Vor- und Nachteile von GitHub Projects:
+
+*Vorteile:*
+
+* Strukturierte Übersicht über Aufgaben und Verantwortlichkeiten.
+* Verbesserung der Zusammenarbeit durch zentrale Kommunikation.
+* Leichtere Nachverfolgung von Fortschritten und Priorisierung von Aufgaben.
+
+*Nachteile:*
+
+* Erfordert eine gewisse Einarbeitung und Anpassung an das Tool.
+* Kann bei ungenauer Pflege unübersichtlich werden.
+* Nicht alle Teammitglieder waren zu Beginn mit dem Tool vertraut, was eine kurze Schulung notwendig machte.
+
+Zusätzlich wurde eine Stakeholder Map erstellt, um alle relevanten Akteure des Projekts zu identifizieren und deren Einfluss sowie Interessen zu analysieren. Diese Methode half dabei, die Zielgruppen besser zu verstehen und gezielt Strategien für die Produktentwicklung abzuleiten.
+
+==== Vor- und Nachteile der Stakeholder Map:
+
+*Vorteile:*
+
+* Visualisiert Beziehungen zwischen Akteuren und deren Einfluss auf das Projekt.
+* Hilft, Interessenkonflikte frühzeitig zu erkennen.
+* Unterstützt die Priorisierung von Stakeholdern nach Wichtigkeit.
+
+*Nachteile:*
+
+* Erfordert eine genaue Recherche und Analyse der Stakeholder.
+* Kann komplex werden, wenn viele Interessengruppen involviert sind.
+* Ergebnisse sind oft interpretationsabhängig und müssen regelmäßig aktualisiert werden.
+
+Abschließend wurden erste Umfragen ausgewertet, die in einer vorherigen Phase durchgeführt wurden. Diese Auswertungen lieferten wertvolle Erkenntnisse über die Erwartungen und Bedürfnisse der potenziellen Nutzer, was als Grundlage für die Weiterentwicklung des Konzepts diente.
