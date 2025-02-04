@@ -10,6 +10,10 @@ Ort: Linz, Österreich
 
 Datum: 23. Januar 2025
 
+== Disclaimer
+
+In dem vorliegenden Dokument wird darauf verzichtet, bei Personenbezeichnungen sowohl die weibliche als auch die männliche und diverse Form zu nennen. Das generische Maskulinum adressiert alle Leser*innen und gilt in allen Fällen, in denen dies nicht explizit ausgeschlossen wird, für alle Geschlechter. 
+
 == Gruppenmitglieder
 
 Das Projekt wurde von Julia Kiss, Yaminia Pagoada, Lydia Reiter, Lena Wurmsdobler und Wenxi Yang durchgeführt. Jedes Teammitglied brachte durch seine individuellen Erfahrungen und Fachkenntnisse unterschiedliche Perspektiven in das Projekt ein, wodurch ein vielseitiger Ansatz für die Entwicklung entstand. Diese unterschiedlichen Sichtweisen ermöglichten eine umfassende Auseinandersetzung mit den Herausforderungen und führten zur Entwicklung eines fundierten Konzepts.
@@ -289,7 +293,9 @@ Plant2Go stellt eine innovative Lösung für Menschen dar, die in beengten städ
 
 == Erworbene Fähigkeiten
 
-Durch die Arbeit an diesem Projekt konnten wertvolle Kompetenzen erworben werden. Besonders das Arbeiten mit nachhaltigen Materialien, die iterative Produktentwicklung und die Anwendung verschiedener Methoden wie Stakeholder-Analyse und Rapid Prototyping spielten eine entscheidende Rolle. Während der verschiedenen Arbeitszyklen haben die Teammitglieder gelernt, wie wichtig eine strukturierte Vorgehensweise ist – von der Konzeption über die technische Umsetzung bis hin zur Nutzerintegration.
+Durch die Arbeit an diesem Projekt konnten wertvolle Kompetenzen erworben werden. Besonders das Arbeiten mit nachhaltigen Materialien, die iterative Produktentwicklung und die Anwendung verschiedener Methoden wie Stakeholder-Analyse und Rapid Prototyping spielten eine entscheidende Rolle. Während der verschiedenen Arbeitszyklen haben die Teammitglieder gelernt, wie wichtig eine strukturierte Vorgehensweise ist – von der Konzeption über die technische Umsetzung bis hin zur Nutzerintegration. 
+
+Des Weiteren haben wir erkannt, dass Produktkritik keine Persönlichkeitskritik ist und wir haben gelernt Feedback dankbar anzunehmen. Feedback ist zwar immer wertvoll, muss aber nicht immer gleich sofort umgesetzt werden. Außerdem haben wir unsere Geduld geübt als wir Fragen zu unserem Produkt beantwortet haben. Selbst wenn das Produkt und seine Features für uns komplett offensichtlich und selbstverständlich ist, ist alles oft sehr verwirrend für Außenstehende. Wir haben uns mit Plant2Go ein sehr durchdachtes Produkt ausgesucht und damit mussten wir zur Kenntnis nehmen, dass Plant2Go für eine überfüllte und schnelllebige Konsumgesellschaft eher komplex ist und Käufer oft überfordert sind und einfache Produkte, wo man nicht viel nachdenken muss, oft bevorzuegen. Durch Reflexion und Iteration haben Plat2Go und unsere Prozesse und Arbeitsweisen stetig verbessert und arbeiten derzeit an einer einfachen, klaren und verständlichen Produkt-Kommunikation.
 
 Die Zusammenarbeit im Team stellte sich als herausfordernd, aber zugleich als essenziell für den Projekterfolg heraus. Eine der größten Schwierigkeiten bestand in der Koordination der unterschiedlichen Aufgaben und der effektiven Kommunikation innerhalb des Teams. Durch regelmäßige Meetings, klare Aufgabenverteilungen und die Nutzung digitaler Tools wie GitHub konnten diese Herausforderungen jedoch bewältigt werden.
 
